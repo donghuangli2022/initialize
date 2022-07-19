@@ -1,11 +1,7 @@
 git init
 git add .
-git config --global user.name "Your Name"
-git config --global user.email you@example.com
+git config --global user.name "donghuangli"
+git config --global user.email donghuangli@fortna.com
 git commit -m "initial commit"
---------------- Create online the repository https://scm.wcs.fortna.com/
-if your password does not contain special characters such as @, *, or a another git symbol
-git remote add origin https://youruser:yourpass@scm.wcs.fortna.com/lcardona/repository_name.git
-     
- 
+
 git push origin master
