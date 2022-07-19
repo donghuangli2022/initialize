@@ -1,5 +1,5 @@
 git init
 git add .
-git config --global user.name "Your Name"
-git config --global user.email you@example.com
+git config --global user.name "Donghuang Li"
+git config --global user.email donghuangli@fortna.com
 git commit -m "initial commit"
